@@ -57,4 +57,4 @@ C++ • Python • JavaScript • C
 
 If you're hiring, collaborating, or just want to say hi — feel free to reach out!
 
-📧 sachinkumar46669@gmail.com *(or update with your preferred email)*
+📧 shashankkumar.iiitk@gmail.com *(or update with your preferred email)*
